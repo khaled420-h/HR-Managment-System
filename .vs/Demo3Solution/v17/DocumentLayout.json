@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFB5911-4571-4434-B1FF-DF641A70CD9A}|DemoDAL\\DemoDAL.csproj|f:\\route\\back end\\part 07 asp.net core mvc\\session 03\\demos\\demo3solution\\demodal\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFB5911-4571-4434-B1FF-DF641A70CD9A}|DemoDAL\\DemoDAL.csproj|solutionrelative:demodal\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98DFCED-8651-4F5F-A44A-8CDB00E15C93}|DemoBLL\\DemoBLL.csproj|f:\\route\\back end\\part 07 asp.net core mvc\\session 03\\demos\\demo3solution\\demobll\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98DFCED-8651-4F5F-A44A-8CDB00E15C93}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA7154-8797-4E26-986D-B7CDEAD29BBE}|Demo3\\Demo3.csproj|f:\\route\\back end\\part 07 asp.net core mvc\\session 03\\demos\\demo3solution\\demo3\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA7154-8797-4E26-986D-B7CDEAD29BBE}|Demo3\\Demo3.csproj|solutionrelative:demo3\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA7154-8797-4E26-986D-B7CDEAD29BBE}|Demo3\\Demo3.csproj|f:\\route\\back end\\part 07 asp.net core mvc\\session 03\\demos\\demo3solution\\demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA7154-8797-4E26-986D-B7CDEAD29BBE}|Demo3\\Demo3.csproj|solutionrelative:demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98DFCED-8651-4F5F-A44A-8CDB00E15C93}|DemoBLL\\DemoBLL.csproj|f:\\route\\back end\\part 07 asp.net core mvc\\session 03\\demos\\demo3solution\\demobll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98DFCED-8651-4F5F-A44A-8CDB00E15C93}|DemoBLL\\DemoBLL.csproj|solutionrelative:demobll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0BA7154-8797-4E26-986D-B7CDEAD29BBE}|Demo3\\Demo3.csproj|f:\\route\\back end\\part 07 asp.net core mvc\\session 03\\demos\\demo3solution\\demo3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0BA7154-8797-4E26-986D-B7CDEAD29BBE}|Demo3\\Demo3.csproj|solutionrelative:demo3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\DemoDAL\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "DemoDAL\\Model\\Department.cs",
+              "ToolTip": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\DemoDAL\\Model\\Department.cs",
+              "RelativeToolTip": "DemoDAL\\Model\\Department.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:21:14.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\Demo3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\Demo3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:50:35.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\DemoBLL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\UnitOfWork.cs",
+              "ToolTip": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\DemoBLL\\UnitOfWork.cs",
+              "RelativeToolTip": "DemoBLL\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:00:27.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\DemoBLL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DemoBLL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\DemoBLL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DemoBLL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:59:54.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\Demo3\\Program.cs",
+              "RelativeDocumentMoniker": "Demo3\\Program.cs",
+              "ToolTip": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\Demo3\\Program.cs",
+              "RelativeToolTip": "Demo3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-23T12:49:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\Demo3\\Startup.cs",
+              "RelativeDocumentMoniker": "Demo3\\Startup.cs",
+              "ToolTip": "F:\\Route\\Back End\\Part 07 ASP.NET Core MVC\\Session 03\\Demos\\Demo3Solution\\Demo3\\Startup.cs",
+              "RelativeToolTip": "Demo3\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-23T12:47:53.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
